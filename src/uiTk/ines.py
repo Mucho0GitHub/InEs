@@ -33,7 +33,7 @@ else:
 
 # Constante
 PROGRAM_NAME  = "Structural Analysis Matrix" 
-FILE_ICO_LOGO = "iconapp.ico"
+FILE_ICO_LOGO = "./iconapp.ico"
 info1 = platform.system()
 info2 = platform.node()
 info3 = platform.machine()
